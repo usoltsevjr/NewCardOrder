@@ -1,4 +1,4 @@
-#### Проверка сборки 
+#### Проверка сборки [![Build status](https://ci.appveyor.com/api/projects/status/jf1kt1d7xn4mdult?svg=true)](https://ci.appveyor.com/project/usoltsevjr/newcardorder)
 
 # Домашнее задание к занятию «2.1. Тестирование веб-интерфейсов»
 
